@@ -19,8 +19,6 @@ Welcome to my **SQL Daily Practice** repository! This repo contains my day-wise 
 | 09  | UNION, INTERSECT, EXCEPT                 | ⏳     |
 | 10  | Views, Indexes, and Constraints          | ⏳     | -->
 
-> ✅ = Completed | ⏳ = In Progress
-
 ---
 
 ## 📁 Repository Structure
