@@ -9,8 +9,8 @@ Welcome to my **SQL Daily Practice** repository! This repo contains my day-wise 
 | Day | Topics Practiced                         | Status |
 |-----|------------------------------------------|--------|
 | 01  | Basic SELECT, WHERE, AND, OR, IN         | ✅     |
-<!-- | 02  | ORDER BY, LIMIT, DISTINCT           | ✅     |
-| 03  | Aggregate Functions (COUNT, SUM, AVG)    | ✅     |
+| 02  | ORDER BY, LIMIT, DISTINCT                | ✅     |
+<!--| 03  | Aggregate Functions (COUNT, SUM, AVG)    | ✅     |
 | 04  | GROUP BY, HAVING                         | ✅     |
 | 05  | INNER JOIN, LEFT JOIN                    | ✅     |
 | 06  | RIGHT JOIN, FULL JOIN                    | ✅     |
