@@ -17,5 +17,3 @@ FROM Movies AS a
 JOIN Boxoffice AS b
 ON a.Id = b.Movie_id
 ORDER BY Rating DESC;
-
---Q4. 
