@@ -10,9 +10,9 @@ Welcome to my **SQL Daily Practice** repository! This repo contains my day-wise 
 |-----|------------------------------------------|--------|
 | 01  | Basic SELECT, WHERE, AND, OR, IN         | ✅     |
 | 02  | ORDER BY, LIMIT, DISTINCT                | ✅     |
-<!--| 03  | Aggregate Functions (COUNT, SUM, AVG)    | ✅     |
-| 04  | GROUP BY, HAVING                         | ✅     |
-| 05  | INNER JOIN, LEFT JOIN                    | ✅     |
+| 03  | INNER JOIN, LEFT JOIN                    | ✅     |
+<!--| 04  | GROUP BY, HAVING                     | ✅     |
+| 05  | ggregate Functions (COUNT, SUM, AVG)     | ✅     |
 | 06  | RIGHT JOIN, FULL JOIN                    | ✅     |
 | 07  | Subqueries, Nested SELECT                | ⏳     |
 | 08  | CASE Statements, IF Conditions           | ⏳     |
