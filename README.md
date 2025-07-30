@@ -1,6 +1,11 @@
-# SQL_daily_practice# 🗂️ SQL Daily Practice
+🗂️ SQL Daily Practice
 
 Welcome to my **SQL Daily Practice** repository! This repo contains my day-wise SQL learning journey with hands-on problem solving. The goal is to build strong foundations in SQL for data analysis, backend development, and database management.
+
+## 💡 Goals:
+- Master core SQL concepts
+- Practice real-world problems
+- Prepare for SQL interviews
 
 ---
 
@@ -20,6 +25,14 @@ Welcome to my **SQL Daily Practice** repository! This repo contains my day-wise 
 | 10  | Views, Indexes, and Constraints          | ⏳     | -->
 
 ---
+
+<!-- ## 🔗 Platforms Used:
+- HackerRank
+- StrataScratch
+- Kaggle
+- DataLemur -->
+
+--
 
 ## 📁 Repository Structure
 
