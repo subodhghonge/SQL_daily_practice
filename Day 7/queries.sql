@@ -51,4 +51,8 @@ FROM admissions
 group by day_number
 order by number_of_admissions desc;
 
---Q9 
+--Q9 Show all columns for patient_id 542's most recent admission_date.
+SELECT * FROM admissions
+where patient_id = 542
+order by admission_date DESC
+LIMIT 1;
