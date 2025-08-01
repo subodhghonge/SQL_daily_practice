@@ -20,20 +20,20 @@ Welcome to my **SQL Daily Practice** repository! This repo contains my day-wise 
 | 02  | ORDER BY, LIMIT, DISTINCT                | ✅     |
 | 03  | INNER JOIN, LEFT JOIN                    | ✅     |
 | 04  | Subquery, JOINS                          | ✅     |
-|05   | Aggregate Functions (COUNT, SUM, AVG)    | ✅     |
+| 05  | Aggregate Functions (COUNT, SUM, AVG)    | ✅     |
 | 06  | RIGHT JOIN, FULL JOIN                    | ✅     |
-<!--| 07  | Subqueries, Nested SELECT                | ⏳     |
-| 08  | CASE Statements, IF Conditions           | ⏳     |
-| 09  | UNION, INTERSECT, EXCEPT                 | ⏳     |
-| 10  | Views, Indexes, and Constraints          | ⏳     | -->
+| 07  | CASE Statements, IF Conditions           | ✅     |
+<!--| 08  | Subqueries, Nested SELECT                | ✅     |
+| 09  | UNION, INTERSECT, EXCEPT                 | ✅     |
+| 10  | Views, Indexes, and Constraints          | ✅     | -->
 
 ---
 
-<!-- ## 🔗 Platforms Used:
+## 🔗 Platforms Used:
 - HackerRank
 - StrataScratch
 - Kaggle
-- DataLemur -->
+- DataLemur
 
 --
 
