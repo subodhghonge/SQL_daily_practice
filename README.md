@@ -14,18 +14,18 @@ Welcome to my **SQL Daily Practice** repository! This repo contains my day-wise 
 
 ## 📅 Daily Progress Tracker
 
-| Day | Topics Practiced                         | Status |
-|-----|------------------------------------------|--------|
-| 01  | Basic SELECT, WHERE, AND, OR, IN         | ✅     |
-| 02  | ORDER BY, LIMIT, DISTINCT                | ✅     |
-| 03  | INNER JOIN, LEFT JOIN                    | ✅     |
-| 04  | Subquery, JOINS                          | ✅     |
-| 05  | Aggregate Functions (COUNT, SUM, AVG)    | ✅     |
-| 06  | RIGHT JOIN, FULL JOIN                    | ✅     |
-| 07  | CASE Statements, IF Conditions           | ✅     |
-<!--| 08  | Subqueries, Nested SELECT                | ✅     |
-| 09  | UNION, INTERSECT, EXCEPT                 | ✅     |
-| 10  | Views, Indexes, and Constraints          | ✅     | -->
+| Topics Practiced                         | Status |
+|------------------------------------------|--------|
+| Basic SELECT, WHERE, AND, OR, IN         | ✅     |
+| ORDER BY, LIMIT, DISTINCT                | ✅     |
+| INNER JOIN, LEFT JOIN                    | ✅     |
+| Subquery, JOINS                          | ✅     |
+| Aggregate Functions (COUNT, SUM, AVG)    | ✅     |
+| RIGHT JOIN, FULL JOIN                    | ✅     |
+| CASE Statements, IF Conditions           | ✅     |
+| Subqueries, Nested SELECT                | ✅     |
+| UNION, INTERSECT, EXCEPT                 | ✅     |
+| Views, Indexes, and Constraints          |         |
 
 ---
 
