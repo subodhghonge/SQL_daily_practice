@@ -17,4 +17,15 @@ SELECT
     END AS gender_type
 FROM patients;
 
---Q3 
+--Q3 Display a single row with max_visits, min_visits, average_visits where the maximum, minimum and average number of admissions per day is calculated. Average is rounded to 2 decimal places.
+SELECT 
+	MAX(admission_date) AS max_visit,
+    MIN(admission_date) AS min_visit,
+    ROunD(AVG(admission_date), 2) AS average_visit
+FROM (
+  SELECT admission_date, COUNT(*) AS daily_visit
+  FROM admissions
+  group by admission_date
+ )AS daily_counts;
+
+ 
