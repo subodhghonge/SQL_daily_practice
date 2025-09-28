@@ -45,7 +45,7 @@ WHERE name LIKE '%a' OR name LIKE '%l';
 --4. Pick the result from the query
 SELECT name,length(name)
 FROM world
-WHERE length(name)=5 and region='Europe'
+WHERE length(name)=5 and region='Europe';
 
 --Output
 -- name	    length(name)
@@ -69,9 +69,23 @@ WHERE length(name)=5 and region='Europe'
 --6. Select the code that would show the countries with an area larger than 50000 and a population smaller than 10000000
 SELECT name, area, population
 FROM world
-WHERE area > 50000 AND population < 10000000
+WHERE area > 50000 AND population < 10000000;
 
 --7. Select the code that shows the population density of China, Australia, Nigeria and France
 SELECT name, population/area
 FROM world
-WHERE name IN ('China', 'Nigeria', 'France', 'Australia')
+WHERE name IN ('China', 'Nigeria', 'France', 'Australia');
+
+--8. to show the name, continent and population of all countries.
+SELECT name, continent, population FROM world;
+
+--9. show the name for the countries that have a population of at least 200 million. 200 million is 200000000, there are eight zeros.
+SELECT name FROM world
+WHERE population >= 200000000;
+
+--10. Give the name and the per capita GDP for those countries with a population of at least 200 million.
+SELECT name, gdp/population FROM world
+WHERE population >= 200000000;
+
+--11. Show the name and population in millions for the countries of the continent 'South America'. 
+--Divide the population by 1000000 to get population in millions.
