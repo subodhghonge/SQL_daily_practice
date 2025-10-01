@@ -46,3 +46,16 @@ SELECT name,
 FROM world
 WHERE continent = 'Europe'
 ORDER BY name;
+
+--6. Which countries have a GDP greater than every country in Europe? [Give the name only.] (Some countries may have NULL gdp values)
+
+SELECT name FROM world
+WHERE gdp > (SELECT MAX(gdp) FROM world WHERE continent = "Europe" AND gdp IS NOT NULL);
+
+--7.Find the largest country (by area) in each continent, show the continent, the name and the area:
+-- The above example is known as a correlated or synchronized sub-query.
+-- Using correlated subqueries
+SELECT c1.continent, c1.name, c1.area FROM world c1
+WHERE c1.area = (SELECT MAX(c2.area) FROM world c2 WHERE c2.continent = c1.continent);
+
+--8. 
